@@ -16,6 +16,7 @@ public class UserService implements UserServiceImp {
     private UserRepository userRepository;
 
     public Optional<UserResponse> login(UserRequest userRequest){
+        System.out.println("LOGGUEADO KLASJDL;ASKJD");
         return userRepository.findByEmail(userRequest.getEmail())
                 .filter(user -> user.getPassword().equals(userRequest.getPassword()))
                 .map(UserResponse::fromUser);
