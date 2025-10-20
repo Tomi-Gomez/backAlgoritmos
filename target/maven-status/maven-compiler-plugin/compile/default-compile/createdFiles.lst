@@ -1,0 +1,11 @@
+com\TpAlgoritmosFinal3\controller\request\ProductRequest.class
+com\TpAlgoritmosFinal3\service\ProductServiceImp.class
+com\TpAlgoritmosFinal3\TpAlgoritmosFinal3Application.class
+com\TpAlgoritmosFinal3\controller\response\ProductResponse.class
+com\TpAlgoritmosFinal3\config\CorsConfig.class
+com\TpAlgoritmosFinal3\repository\ProductRepository.class
+com\TpAlgoritmosFinal3\model\Product$ProductBuilder.class
+com\TpAlgoritmosFinal3\controller\ProductController.class
+com\TpAlgoritmosFinal3\model\Product.class
+com\TpAlgoritmosFinal3\service\imp\ProductService.class
+com\TpAlgoritmosFinal3\controller\response\ProductResponse$ProductResponseBuilder.class
